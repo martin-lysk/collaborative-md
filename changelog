@@ -1,0 +1,13 @@
+
+{"version":"alice_0.08556440631172468_1","parents":["v_1"],"splices":[[0,0,["G"]]],"annotations":[]}
+{"version":"alice_0.08556440631172468_2","parents":["alice_0.08556440631172468_1"],"splices":[[1,0,["a"]]],"annotations":[]}
+{"version":"alice_0.08556440631172468_3","parents":["alice_0.08556440631172468_2"],"splices":[[2,0,["n"]]],"annotations":[]}
+{"version":"alice_0.08556440631172468_4","parents":["alice_0.08556440631172468_3"],"splices":[[3,0,["d"]]],"annotations":[]}
+{"version":"alice_0.08556440631172468_5","parents":["alice_0.08556440631172468_4"],"splices":[[4,0,["a"]]],"annotations":[]}
+{"version":"alice_0.08556440631172468_6","parents":["alice_0.08556440631172468_5"],"splices":[[5,0,["l"]]],"annotations":[]}
+{"version":"alice_0.08556440631172468_7","parents":["alice_0.08556440631172468_6"],"splices":[[6,0,["f"]]],"annotations":[]}
+{"version":"alice_0.08556440631172468_8","parents":["alice_0.08556440631172468_7"],"splices":[[7,0,[" "]]],"annotations":[]}
+{"version":"alice_0.08556440631172468_9","parents":["alice_0.08556440631172468_8"],"splices":[[8,0,["t"]]],"annotations":[]}
+{"version":"alice_0.08556440631172468_10","parents":["alice_0.08556440631172468_9"],"splices":[[9,0,["h"]]],"annotations":[]}
+{"version":"alice_0.08556440631172468_11","parents":["alice_0.08556440631172468_10"],"splices":[[10,0,["e"]]],"annotations":[]}
+{"version":"alice_0.08556440631172468_12","parents":["alice_0.08556440631172468_11"],"splices":[[11,0,[" "]]],"annotations":[]}
