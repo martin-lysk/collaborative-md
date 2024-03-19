@@ -54,7 +54,7 @@
 {"version":"alice_0.30819666734955353_26","parents":["alice_0.30819666734955353_25"],"splices":[[25,0,["s"]]],"annotations":[]}
 {"version":"alice_0.30819666734955353_27","parents":["alice_0.30819666734955353_26"],"splices":[[26,0,["o"]]],"annotations":[]}
 {"version":"alice_0.30819666734955353_28","parents":["alice_0.30819666734955353_27"],"splices":[[27,0,["?"]]],"annotations":[]}
-{"version":"bob_0.6555078471259022_1","parents":["alice_0.30819666734955353_28"],"splices":[[28,0,[]]],"annotations":[{"version":"bob_0.6555078471259022_1","start":9,"end":28,"growType":"grow-right","data":{"name":"bold","data":true},"currentStart":19,"currentEnd":55,"currentVersions":["alice_0.39507356267256943_10"]}]}
+{"version":"bob_0.6555078471259022_1","parents":["alice_0.30819666734955353_28"],"splices":[[28,0,[]]],"annotations":[{"version":"bob_0.6555078471259022_1","start":9,"end":28,"growType":"grow-right","data":{"name":"bold","data":true},"currentStart":20,"currentEnd":56,"currentVersions":["alice_0.7923167413126577_1"]}]}
 {"version":"alice_0.1529068659926749_9","parents":["alice_0.1529068659926749_8"],"splices":[[34,0,["g"]]],"annotations":[]}
 {"version":"alice_0.1529068659926749_10","parents":["alice_0.1529068659926749_9"],"splices":[[35,0,["e"]]],"annotations":[]}
 {"version":"alice_0.1529068659926749_11","parents":["alice_0.1529068659926749_10"],"splices":[[36,0,["h"]]],"annotations":[]}
@@ -77,3 +77,4 @@
 {"version":"alice_0.39507356267256943_8","parents":["alice_0.39507356267256943_7"],"splices":[[7,0,["e"]]],"annotations":[]}
 {"version":"alice_0.39507356267256943_9","parents":["alice_0.39507356267256943_8"],"splices":[[8,0,["l"]]],"annotations":[]}
 {"version":"alice_0.39507356267256943_10","parents":["alice_0.39507356267256943_9"],"splices":[[9,0,["t"]]],"annotations":[]}
+{"version":"alice_0.7923167413126577_1","parents":["bob_0.6555078471259022_1"],"splices":[[0,0,["f"]]],"annotations":[]}
