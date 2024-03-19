@@ -16,3 +16,4 @@
 {"version":"alice_0.697661155238543_15","parents":["alice_0.697661155238543_14"],"splices":[[14,0,["n"]]],"annotations":[]}
 {"version":"alice_0.697661155238543_16","parents":["alice_0.697661155238543_15"],"splices":[[15,0,["o"]]],"annotations":[]}
 {"version":"alice_0.697661155238543_17","parents":["alice_0.697661155238543_16"],"splices":[[16,0,["p"]]],"annotations":[]}
+{"version":"bob_0.8520395764605389_1","parents":["alice_0.697661155238543_17"],"splices":[[13,0,[]]],"annotations":[{"version":"bob_0.8520395764605389_1","start":2,"end":13,"growType":"grow-right","data":{"name":"bold","data":true}}]}
