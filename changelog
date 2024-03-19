@@ -1,0 +1,5 @@
+
+{"version":"bob_0.7681206707509538_1","parents":["v_1"],"splices":[[0,0,["W"]]],"annotations":[]}
+{"version":"bob_0.7681206707509538_2","parents":["bob_0.7681206707509538_1"],"splices":[[1,0,["e"]]],"annotations":[]}
+{"version":"bob_0.7681206707509538_3","parents":["bob_0.7681206707509538_2"],"splices":[[2,0,["l"]]],"annotations":[]}
+{"version":"bob_0.7681206707509538_4","parents":["bob_0.7681206707509538_3"],"splices":[[3,0,["t"]]],"annotations":[]}
