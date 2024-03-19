@@ -1,0 +1,10 @@
+
+{"version":"bob_0.2655503778015049_1","parents":["v_1"],"splices":[[0,0,["a"]]],"annotations":[]}
+{"version":"bob_0.2655503778015049_2","parents":["bob_0.2655503778015049_1"],"splices":[[1,0,["s"]]],"annotations":[]}
+{"version":"bob_0.2655503778015049_3","parents":["bob_0.2655503778015049_2"],"splices":[[2,0,["d"]]],"annotations":[]}
+{"version":"bob_0.2655503778015049_4","parents":["bob_0.2655503778015049_3"],"splices":[[3,0,["a"]]],"annotations":[]}
+{"version":"bob_0.2655503778015049_5","parents":["bob_0.2655503778015049_4"],"splices":[[4,0,["s"]]],"annotations":[]}
+{"version":"bob_0.2655503778015049_6","parents":["bob_0.2655503778015049_5"],"splices":[[5,0,["d"]]],"annotations":[]}
+{"version":"bob_0.2655503778015049_7","parents":["bob_0.2655503778015049_6"],"splices":[[6,0,["s"]]],"annotations":[]}
+{"version":"bob_0.2655503778015049_8","parents":["bob_0.2655503778015049_7"],"splices":[[7,0,["a"]]],"annotations":[]}
+{"version":"bob_0.2655503778015049_9","parents":["bob_0.2655503778015049_8"],"splices":[[8,0,["d"]]],"annotations":[]}
