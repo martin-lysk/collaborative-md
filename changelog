@@ -28,3 +28,4 @@
 {"version":"alice_0.16485261675902407_8","parents":["alice_0.16485261675902407_7"],"splices":[[18,0,["a"]]],"annotations":[]}
 {"version":"alice_0.16485261675902407_9","parents":["alice_0.16485261675902407_8"],"splices":[[19,0,["s"]]],"annotations":[]}
 {"version":"alice_0.16485261675902407_10","parents":["alice_0.16485261675902407_9"],"splices":[[20,0,["d"]]],"annotations":[]}
+{"version":"bob_0.9927001419364894_1","parents":["alice_0.16485261675902407_10"],"splices":[[19,0,[]]],"annotations":[{"version":"bob_0.9927001419364894_1","start":0,"end":19,"growType":"grow-right","data":{"name":"bold","data":true}}]}
