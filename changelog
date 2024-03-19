@@ -11,7 +11,8 @@
 {"version":"alice_0.06894729528545662_10","parents":["alice_0.06894729528545662_9"],"splices":[[9,0,["g"]]],"annotations":[]}
 {"version":"alice_0.06894729528545662_11","parents":["alice_0.06894729528545662_10"],"splices":[[10,0,["s"]]],"annotations":[]}
 {"version":"alice_0.06894729528545662_12","parents":["alice_0.06894729528545662_11"],"splices":[[11,0,["f"]]],"annotations":[]}
-{"version":"alice_0.06894729528545662_13","parents":["alice_0.06894729528545662_12"],"splices":[[12,0,[]]],"annotations":[{"version":"alice_0.06894729528545662_13","start":0,"end":12,"growType":"grow-right","data":{"name":"bold","data":true},"currentStart":0,"currentEnd":20,"currentVersions":["bob_0.5440362798649427_8"]}]}
+{"version":"alice_0.06894729528545662_13","parents":["alice_0.06894729528545662_12"],"splices":[[12,0,[]]],"annotations":[{"version":"alice_0.06894729528545662_13","start":0,"end":12,"growType":"grow-right","data":{"name":"bold","data":true}}]}
+{"version":"alice_0.06894729528545662_14","parents":["alice_0.06894729528545662_13"],"splices":[[12,0,[]]],"annotations":[{"version":"alice_0.06894729528545662_14","start":0,"end":12,"growType":"grow-right","data":{"name":"italic","data":true}}]}
 {"version":"bob_0.5440362798649427_1","parents":["alice_0.06894729528545662_13"],"splices":[[5,0,["a"]]],"annotations":[{"version":"bob_0.5440362798649427_1","start":5,"end":6,"growType":"grow-right","data":{"name":"bold","data":true}}]}
 {"version":"bob_0.5440362798649427_2","parents":["bob_0.5440362798649427_1"],"splices":[[6,0,["s"]]],"annotations":[{"version":"bob_0.5440362798649427_2","start":6,"end":7,"growType":"grow-right","data":{"name":"bold","data":true}}]}
 {"version":"bob_0.5440362798649427_3","parents":["bob_0.5440362798649427_2"],"splices":[[7,0,["d"]]],"annotations":[{"version":"bob_0.5440362798649427_3","start":7,"end":8,"growType":"grow-right","data":{"name":"bold","data":true}}]}
