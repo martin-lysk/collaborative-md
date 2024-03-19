@@ -1,5 +1,2 @@
 
-{"version":"alice_0.6688814229428293_1","parents":["v_1"],"splices":[[0,0,["H"]]],"annotations":[]}
-{"version":"alice_0.6688814229428293_2","parents":["alice_0.6688814229428293_1"],"splices":[[1,0,["a"]]],"annotations":[]}
-{"version":"alice_0.6688814229428293_3","parents":["alice_0.6688814229428293_2"],"splices":[[2,0,["l"]]],"annotations":[]}
-{"version":"alice_0.6688814229428293_4","parents":["alice_0.6688814229428293_3"],"splices":[[3,0,["o"]]],"annotations":[]}
+{"version":"alice_0.6688814229428293_5","parents":["alice_0.6688814229428293_4"],"splices":[[4,0,["a"]]],"annotations":[]}
