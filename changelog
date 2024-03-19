@@ -6,9 +6,13 @@
 {"version":"alice_5","parents":["alice_4"],"splices":[[4,0,["s"]]],"annotations":[]}
 {"version":"alice_6","parents":["alice_5"],"splices":[[5,0,["d"]]],"annotations":[]}
 {"version":"alice_0.026632017300209698_7","parents":["alice_0.026632017300209698_6"],"splices":[[12,0,[]]],"annotations":[{"version":"alice_0.026632017300209698_7","start":0,"end":12,"growType":"grow-right","data":{"name":"bold","data":true}}]}
-{"version":"alice_0.8000567557490783_17","parents":["alice_0.8000567557490783_16"],"splices":[[16,0,["a"]]],"annotations":[]}
-{"version":"alice_0.8000567557490783_18","parents":["alice_0.8000567557490783_17"],"splices":[[17,0,["s"]]],"annotations":[]}
-{"version":"alice_0.8000567557490783_19","parents":["alice_0.8000567557490783_18"],"splices":[[18,0,["d"]]],"annotations":[]}
-{"version":"alice_0.8000567557490783_20","parents":["alice_0.8000567557490783_19"],"splices":[[19,0,["a"]]],"annotations":[]}
-{"version":"alice_0.8000567557490783_21","parents":["alice_0.8000567557490783_20"],"splices":[[20,0,["s"]]],"annotations":[]}
-{"version":"alice_0.8000567557490783_22","parents":["alice_0.8000567557490783_21"],"splices":[[21,0,["d"]]],"annotations":[]}
+{"version":"alice_0.8000567557490783_23","parents":["alice_0.8000567557490783_22"],"splices":[[0,22,["H"]]],"annotations":[]}
+{"version":"alice_0.8000567557490783_24","parents":["alice_0.8000567557490783_23"],"splices":[[1,0,["a"]]],"annotations":[]}
+{"version":"alice_0.8000567557490783_25","parents":["alice_0.8000567557490783_24"],"splices":[[2,0,["l"]]],"annotations":[]}
+{"version":"alice_0.8000567557490783_26","parents":["alice_0.8000567557490783_25"],"splices":[[3,0,["l"]]],"annotations":[]}
+{"version":"alice_0.8000567557490783_27","parents":["alice_0.8000567557490783_26"],"splices":[[4,0,["o"]]],"annotations":[]}
+{"version":"alice_0.8000567557490783_28","parents":["alice_0.8000567557490783_27"],"splices":[[5,0,[" "]]],"annotations":[]}
+{"version":"alice_0.8000567557490783_29","parents":["alice_0.8000567557490783_28"],"splices":[[6,0,["W"]]],"annotations":[]}
+{"version":"alice_0.8000567557490783_30","parents":["alice_0.8000567557490783_29"],"splices":[[7,0,["e"]]],"annotations":[]}
+{"version":"alice_0.8000567557490783_31","parents":["alice_0.8000567557490783_30"],"splices":[[8,0,["l"]]],"annotations":[]}
+{"version":"alice_0.8000567557490783_32","parents":["alice_0.8000567557490783_31"],"splices":[[9,0,["t"]]],"annotations":[]}
