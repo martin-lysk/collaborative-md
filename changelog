@@ -24,3 +24,4 @@
 {"version":"alice_0.08556440631172468_23","parents":["alice_0.08556440631172468_22"],"splices":[[5,0,["s"]]],"annotations":[]}
 {"version":"alice_0.08556440631172468_24","parents":["alice_0.08556440631172468_23"],"splices":[[6,0,["d"]]],"annotations":[]}
 {"version":"alice_0.08556440631172468_25","parents":["alice_0.08556440631172468_24"],"splices":[[5,0,[]]],"annotations":[{"version":"alice_0.08556440631172468_25","start":2,"end":5,"growType":"grow-right","data":{"name":"bold","data":true}}]}
+{"version":"alice_0.08556440631172468_26","parents":["alice_0.08556440631172468_25"],"splices":[[7,0,[]]],"annotations":[{"version":"alice_0.08556440631172468_26","start":1,"end":7,"growType":"grow-right","data":{"name":"underline","data":true}}]}
