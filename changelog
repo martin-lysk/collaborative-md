@@ -1,2 +1,43 @@
 
+{"version":"alice_0.1436178730824389_1","parents":["v_1"],"splices":[[0,0,["H"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_2","parents":["alice_0.1436178730824389_1"],"splices":[[1,0,["a"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_3","parents":["alice_0.1436178730824389_2"],"splices":[[2,0,["l"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_4","parents":["alice_0.1436178730824389_3"],"splices":[[3,0,["l"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_5","parents":["alice_0.1436178730824389_4"],"splices":[[4,0,["o"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_6","parents":["alice_0.1436178730824389_5"],"splices":[[5,0,[" "]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_7","parents":["alice_0.1436178730824389_6"],"splices":[[6,0,["w"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_8","parents":["alice_0.1436178730824389_7"],"splices":[[7,0,["i"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_9","parents":["alice_0.1436178730824389_8"],"splices":[[8,0,["e"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_10","parents":["alice_0.1436178730824389_9"],"splices":[[9,0,[" "]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_11","parents":["alice_0.1436178730824389_10"],"splices":[[10,0,["g"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_12","parents":["alice_0.1436178730824389_11"],"splices":[[11,0,["e"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_13","parents":["alice_0.1436178730824389_12"],"splices":[[12,0,["h"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_14","parents":["alice_0.1436178730824389_13"],"splices":[[13,0,["t"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_15","parents":["alice_0.1436178730824389_14"],"splices":[[14,0,["s"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_16","parents":["alice_0.1436178730824389_15"],"splices":[[15,0,[" "]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_17","parents":["alice_0.1436178730824389_16"],"splices":[[16,0,["d"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_18","parents":["alice_0.1436178730824389_17"],"splices":[[17,0,["i"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_19","parents":["alice_0.1436178730824389_18"],"splices":[[18,0,["r"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_20","parents":["alice_0.1436178730824389_19"],"splices":[[19,0,[" "]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_21","parents":["alice_0.1436178730824389_20"],"splices":[[20,0,["d"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_22","parents":["alice_0.1436178730824389_21"],"splices":[[21,0,["e"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_23","parents":["alice_0.1436178730824389_22"],"splices":[[22,0,["n"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_24","parents":["alice_0.1436178730824389_23"],"splices":[[23,0,["n"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_25","parents":["alice_0.1436178730824389_24"],"splices":[[24,0,[" "]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_26","parents":["alice_0.1436178730824389_25"],"splices":[[25,0,["s"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_27","parents":["alice_0.1436178730824389_26"],"splices":[[26,0,["o"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_28","parents":["alice_0.1436178730824389_27"],"splices":[[27,0,["?"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_29","parents":["alice_0.1436178730824389_28"],"splices":[[28,0,[" "]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_30","parents":["alice_0.1436178730824389_29"],"splices":[[29,0,["m"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_31","parents":["alice_0.1436178730824389_30"],"splices":[[30,0,["a"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_32","parents":["alice_0.1436178730824389_31"],"splices":[[31,0,["l"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_33","parents":["alice_0.1436178730824389_32"],"splices":[[32,0,[" "]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_34","parents":["alice_0.1436178730824389_33"],"splices":[[33,0,["s"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_35","parents":["alice_0.1436178730824389_34"],"splices":[[34,0,["e"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_36","parents":["alice_0.1436178730824389_35"],"splices":[[35,0,["h"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_37","parents":["alice_0.1436178730824389_36"],"splices":[[36,0,["j"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_38","parents":["alice_0.1436178730824389_37"],"splices":[[37,0,["e"]]],"annotations":[]}
+{"version":"alice_0.1436178730824389_39","parents":["alice_0.1436178730824389_38"],"splices":[[38,0,["n"]]],"annotations":[]}
 {"version":"alice_0.1436178730824389_40","parents":["alice_0.1436178730824389_39"],"splices":[[39,0,["s"]]],"annotations":[]}
+{"version":"bob_0.7780082187003163_1","parents":["alice_0.1436178730824389_40"],"splices":[[12,0,["d"]]],"annotations":[]}
+{"version":"bob_0.7780082187003163_2","parents":["bob_0.7780082187003163_1"],"splices":[[13,0,["d"]]],"annotations":[]}
