@@ -27,4 +27,5 @@
 {"version":"bob_0.9128393070130612_5","parents":["bob_0.9128393070130612_4"],"splices":[[4,0,["i"]]],"annotations":[]}
 {"version":"bob_0.9128393070130612_6","parents":["bob_0.9128393070130612_5"],"splices":[[5,0,["r"]]],"annotations":[]}
 {"version":"bob_0.9128393070130612_7","parents":["bob_0.9128393070130612_6"],"splices":[[6,0,["d"]]],"annotations":[]}
-{"version":"alice_0.4984461323796239_1","parents":["bob_0.9128393070130612_7"],"splices":[[7,0,[]]],"annotations":[{"version":"alice_0.4984461323796239_1","start":3,"end":7,"growType":"grow-right","data":{"name":"bold","data":true}}]}
+{"version":"alice_0.4984461323796239_1","parents":["bob_0.9128393070130612_7"],"splices":[[7,0,[]]],"annotations":[{"version":"alice_0.4984461323796239_1","start":3,"end":7,"growType":"grow-right","data":{"name":"bold","data":true},"currentStart":3,"currentEnd":7,"currentVersions":["bob_0.9128393070130612_8"]}]}
+{"version":"bob_0.9128393070130612_8","parents":["alice_0.4984461323796239_1"],"splices":[[7,0,[]]],"annotations":[{"version":"bob_0.9128393070130612_8","start":3,"end":7,"growType":"grow-right","data":{"name":"underline","data":true}}]}
