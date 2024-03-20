@@ -20,7 +20,7 @@
 {"version":"alice_0.36753045580859944_19","parents":["alice_0.36753045580859944_18"],"splices":[[14,0,["s"]]],"annotations":[]}
 {"version":"alice_0.36753045580859944_20","parents":["alice_0.36753045580859944_19"],"splices":[[15,0,["a"]]],"annotations":[]}
 {"version":"alice_0.36753045580859944_21","parents":["alice_0.36753045580859944_20"],"splices":[[16,0,["d"]]],"annotations":[]}
-{"version":"bob_0.19802344606733668_1","parents":["alice_0.36753045580859944_15"],"splices":[[11,0,["a"]]],"annotations":[{"version":"bob_0.19802344606733668_1","start":11,"end":12,"growType":"grow-right","data":{"name":"bold","data":null},"currentStart":70,"currentEnd":79,"currentVersions":["alice_0.36753045580859944_73"]}]}
+{"version":"bob_0.19802344606733668_1","parents":["alice_0.36753045580859944_15"],"splices":[[11,0,["a"]]],"annotations":[{"version":"bob_0.19802344606733668_1","start":11,"end":12,"growType":"grow-right","data":{"name":"bold","data":null},"currentStart":72,"currentEnd":81,"currentVersions":["alice_0.36753045580859944_75"]}]}
 {"version":"bob_0.19802344606733668_2","parents":["bob_0.19802344606733668_1"],"splices":[[12,0,["s"]]],"annotations":[]}
 {"version":"bob_0.19802344606733668_3","parents":["bob_0.19802344606733668_2"],"splices":[[13,0,["d"]]],"annotations":[]}
 {"version":"bob_0.19802344606733668_4","parents":["bob_0.19802344606733668_3"],"splices":[[14,0,["s"]]],"annotations":[]}
@@ -94,3 +94,5 @@
 {"version":"bob_0.19802344606733668_31","parents":["bob_0.19802344606733668_30"],"splices":[[85,0,["E"]]],"annotations":[]}
 {"version":"bob_0.19802344606733668_32","parents":["bob_0.19802344606733668_31"],"splices":[[86,0,["W"]]],"annotations":[]}
 {"version":"alice_0.36753045580859944_73","parents":["alice_0.36753045580859944_72"],"splices":[[29,0,[" "]]],"annotations":[]}
+{"version":"alice_0.36753045580859944_74","parents":["alice_0.36753045580859944_73"],"splices":[[30,0,["d"]]],"annotations":[]}
+{"version":"alice_0.36753045580859944_75","parents":["alice_0.36753045580859944_74"],"splices":[[30,0,["d"]]],"annotations":[]}
