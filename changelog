@@ -1,3 +1,4 @@
 
 {"version":"alice_0.578186622486621_1","parents":["v_1"],"splices":[[0,0,["j"]]],"annotations":[]}
 {"version":"alice_0.8740608921104016_1","parents":["alice_0.578186622486621_1"],"splices":[[1,0,["j"]]],"annotations":[]}
+{"version":"alice_0.8729064571835885_1","parents":["alice_0.8740608921104016_1"],"splices":[[2,0,[]]],"annotations":[{"version":"alice_0.8729064571835885_1","start":2,"end":3,"growType":"grow-right","data":{"name":"bold","data":true}}]}
