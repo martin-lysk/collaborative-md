@@ -8,3 +8,4 @@
 {"version":"alice_0.36753045580859944_7","parents":["alice_0.36753045580859944_6"],"splices":[[6,0,["s"]]],"annotations":[]}
 {"version":"alice_0.36753045580859944_8","parents":["alice_0.36753045580859944_7"],"splices":[[7,0,["a"]]],"annotations":[]}
 {"version":"alice_0.36753045580859944_9","parents":["alice_0.36753045580859944_8"],"splices":[[8,0,["d"]]],"annotations":[]}
+{"version":"alice_0.36753045580859944_10","parents":["alice_0.36753045580859944_9"],"splices":[[6,0,[]]],"annotations":[{"version":"alice_0.36753045580859944_10","start":2,"end":6,"growType":"grow-right","data":{"name":"bold","data":true}}]}
