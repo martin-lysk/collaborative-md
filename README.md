@@ -6,12 +6,12 @@ aha"
 ~s~
 test
 
-twoEnter:
+twoEnter:*b*
 
 threeEnter:
 
 
-fourEnter:
+*b*fourEnter:
 
 
 
