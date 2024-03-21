@@ -2,16 +2,17 @@
 jo some text
 ## Test2
 aha"
-*b*
+*em*
+**b**
 ~s~
 test
 
-twoEnter:*b*
+twoEnter:*em*
 
 threeEnter:
 
 
-*b*fourEnter:
+*em*fourEnter:
 
 
 
