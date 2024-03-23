@@ -3,7 +3,7 @@ name: Comment on README.md
 on:
   push:
     paths:
-      - 'ref/collaboration/*'
+      - 'ref/collab/*'
 
 jobs:
   comment_on_readme:
