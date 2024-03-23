@@ -4,6 +4,9 @@ on:
   push:
     paths:
       - 'ref/collab/*'
+      - '**'
+      - '*/*'
+      - '*/*/*'
 
 jobs:
   comment_on_readme:
