@@ -1,0 +1,50 @@
+name: Comment on README.md
+
+on:
+  push:
+    paths:
+      - 'ref/collaboration/*'
+
+jobs:
+  comment_on_readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
+      - name: Get head commit SHA
+        id: head_commit
+        run: echo "::set-output name=sha::$(git rev-parse HEAD)"
+        
+      - name: Get README.md content
+        id: readme_content
+        run: echo "::set-output name=content::$(cat README.md)"
+        
+      - name: Add comment to README.md
+        uses: actions/github-script@v4
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { context, github } = require('@actions/github');
+            const headSha = context.payload.head_commit || process.env.GITHUB_SHA;
+            const octokit = github.getOctokit(process.env.GITHUB_TOKEN);
+
+            octokit.repos.getReadme({
+              owner: context.repo.owner,
+              repo: context.repo.repo
+            }).then(response => {
+              const readmeContent = Buffer.from(response.data.content, 'base64').toString();
+              const newContent = `<!-- New Comment -->\n${readmeContent}`;
+              
+              octokit.repos.createOrUpdateFileContents({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                path: 'README.md',
+                message: 'Add comment to README.md',
+                content: Buffer.from(newContent).toString('base64'),
+                sha: headSha
+              });
+            }).catch(error => {
+              console.error('Error getting README.md:', error);
+            });
