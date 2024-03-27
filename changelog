@@ -1,0 +1,4 @@
+
+{"id":"e_0.6195854195659043","t":"DataEvent","eventType":"create","entityType":"DiscussionThread","entityId":"id_0.8158135851723467","data":{},"date":1711521116197,"userId":"u_0.6426696426293752_u"}
+{"id":"id_0.8158135851723467","t":"DataEvent","eventType":"update","entityType":"DiscussionThread","entityId":"id_0.8158135851723467","data":{"note":"asdasd","reactions":{}},"date":1711521119650,"userId":"u_0.6426696426293752_u"}
+{"id":"u_0.6426696426293752_u_0.48161007958419444_1","t":"PersistableVersion","parents":["v_1"],"splices":[[17,0,[]]],"annotations":[{"version":"u_0.6426696426293752_u_0.48161007958419444_1","start":10,"end":17,"growType":"grow-right","data":{"name":"discussion","data":["id_0.8158135851723467"]}}]}
