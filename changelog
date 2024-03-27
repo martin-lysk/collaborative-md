@@ -2,3 +2,4 @@
 {"id":"e_0.8653841259876762","t":"DataEvent","eventType":"create","entityType":"DiscussionThread","entityId":"id_0.5210711297727166","data":{},"date":1711498063868,"userId":"u_0.29937002060323326_u"}
 {"id":"id_0.5210711297727166","t":"DataEvent","eventType":"update","entityType":"DiscussionThread","entityId":"id_0.5210711297727166","data":{"note":"dsda","reactions":{}},"date":1711498194393,"userId":"u_0.29937002060323326_u"}
 {"id":"u_0.29937002060323326_u_0.4184771658591915_1","t":"PersistableVersion","parents":["v_1"],"splices":[[16,0,[]]],"annotations":[{"version":"u_0.29937002060323326_u_0.4184771658591915_1","start":12,"end":16,"growType":"grow-right","data":{"name":"discussion","data":["id_0.5210711297727166"]}}]}
+{"id":"0.36063638728598124","t":"DataEvent","eventType":"create","entityType":"DiscussionReply","entityId":"0.36063638728598124","data":{"threadId":"id_0.5210711297727166","note":"asd"},"date":1711498671894,"userId":"u_0.6231806017079147_u"}
