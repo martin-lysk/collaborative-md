@@ -1,0 +1,4 @@
+
+{"id":"e_23e013b6-fb70-4c4d-b96c-481edfdbc3d8","t":"DataEvent","eventType":"create","entityType":"DiscussionThread","entityId":"id_617e2062-217c-4e91-848b-57600bbae6cc","data":{},"date":1711636800181,"userId":113943358}
+{"id":"e_0a805973-52a8-4004-998f-b923186847f2","t":"DataEvent","eventType":"update","entityType":"DiscussionThread","entityId":"id_617e2062-217c-4e91-848b-57600bbae6cc","data":{"note":"asdasd","reactions":{}},"date":1711636802454,"userId":113943358}
+{"id":"113943358_0c8d5c52-6583-40c8-a1e6-dca2ca530387_1","t":"PersistableVersion","parents":["v_1"],"splices":[[14,0,[]]],"annotations":[{"version":"113943358_0c8d5c52-6583-40c8-a1e6-dca2ca530387_1","start":5,"end":14,"growType":"grow-right","data":{"name":"discussion","data":["id_617e2062-217c-4e91-848b-57600bbae6cc"]}}]}
