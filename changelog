@@ -20,3 +20,15 @@
 {"id":"113943358_b9e172d0-c34c-460c-833d-179062edff7a_8","t":"PersistableVersion","parents":["113943358_b9e172d0-c34c-460c-833d-179062edff7a_7"],"splices":[[8,0,[]]],"annotations":[{"version":"113943358_b9e172d0-c34c-460c-833d-179062edff7a_8","start":7,"end":8,"growType":"grow-right","data":{"name":"header","data":1}}]}
 {"id":"e_7e3ce6e3-b9bc-43e4-9f75-103957e9a617","t":"DataEvent","eventType":"create","entityType":"DiscussionReply","entityId":"0.1644491550720284","data":{"threadId":"id_adb036e4-f17d-4fab-938b-d74d53f03202","note":"asdsad"},"date":1711672532864,"userId":113943358}
 {"id":"113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_1","t":"PersistableVersion","parents":["113943358_b9e172d0-c34c-460c-833d-179062edff7a_8"],"splices":[[32,5,["\n"]]],"annotations":[]}
+{"id":"113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_2","t":"PersistableVersion","parents":["113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_1"],"splices":[[33,0,["\n"]]],"annotations":[]}
+{"id":"113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_3","t":"PersistableVersion","parents":["113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_2"],"splices":[[34,0,["\n"]]],"annotations":[]}
+{"id":"113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_4","t":"PersistableVersion","parents":["113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_3"],"splices":[[35,0,["\n"]]],"annotations":[]}
+{"id":"113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_5","t":"PersistableVersion","parents":["113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_4"],"splices":[[36,0,["\n"]]],"annotations":[]}
+{"id":"113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_6","t":"PersistableVersion","parents":["113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_5"],"splices":[[37,0,["\n"]]],"annotations":[]}
+{"id":"113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_7","t":"PersistableVersion","parents":["113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_6"],"splices":[[38,0,["\n"]]],"annotations":[]}
+{"id":"113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_8","t":"PersistableVersion","parents":["113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_7"],"splices":[[39,0,["\n"]]],"annotations":[]}
+{"id":"113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_9","t":"PersistableVersion","parents":["113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_8"],"splices":[[40,0,["\n"]]],"annotations":[]}
+{"id":"113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_10","t":"PersistableVersion","parents":["113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_9"],"splices":[[41,0,["\n"]]],"annotations":[]}
+{"id":"113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_11","t":"PersistableVersion","parents":["113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_10"],"splices":[[42,0,["\n"]]],"annotations":[]}
+{"id":"113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_12","t":"PersistableVersion","parents":["113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_11"],"splices":[[43,0,["\n"]]],"annotations":[]}
+{"id":"113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_13","t":"PersistableVersion","parents":["113943358_0a57a73b-063a-429f-b3db-c3cdd18ed9e9_12"],"splices":[[44,0,["\n"]]],"annotations":[]}
