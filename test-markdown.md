@@ -20,8 +20,9 @@
     *   [Backslash Escapes](#backslash)
     *   [Automatic Links](#autolink)
 
-# Markdown: Syntax
+
 **Note:** This document is itself written using Markdown; you
+# Markdown: Syntax
 can [see the source for it by adding '.text' to the URL](/projects/markdown/syntax.text).
 
 ----
