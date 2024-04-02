@@ -83,3 +83,4 @@
 {"id":"113943358_75dd8231-0eb0-4ee3-8b91-95784808297e_21","t":"PersistableVersion","parents":["113943358_75dd8231-0eb0-4ee3-8b91-95784808297e_20"],"splices":[[65,0,["\n","\n"]]],"annotations":[]}
 {"id":"113943358_75dd8231-0eb0-4ee3-8b91-95784808297e_22","t":"PersistableVersion","parents":["113943358_75dd8231-0eb0-4ee3-8b91-95784808297e_21"],"splices":[[42,0,["\n","\n"]]],"annotations":[]}
 {"id":"113943358_75dd8231-0eb0-4ee3-8b91-95784808297e_23","t":"PersistableVersion","parents":["113943358_75dd8231-0eb0-4ee3-8b91-95784808297e_22"],"splices":[[44,0,["\n","\n"]]],"annotations":[]}
+{"id":"113943358_75dd8231-0eb0-4ee3-8b91-95784808297e_24","t":"PersistableVersion","parents":["113943358_75dd8231-0eb0-4ee3-8b91-95784808297e_23"],"splices":[[41,0,[]]],"annotations":[{"version":"113943358_75dd8231-0eb0-4ee3-8b91-95784808297e_24","start":35,"end":41,"growType":"grow-right","data":{"name":"bold","data":true}}]}
