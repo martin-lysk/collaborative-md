@@ -71,3 +71,6 @@
 {"id":"113943358_04df5e23-da26-41e3-9b87-d07942d12809_2","t":"PersistableVersion","parents":["113943358_04df5e23-da26-41e3-9b87-d07942d12809_1"],"splices":[[28,0,["T"]]],"annotations":[]}
 {"id":"113943358_3187c446-7136-4f81-980a-9d538fddf363_1","t":"PersistableVersion","parents":["113943358_04df5e23-da26-41e3-9b87-d07942d12809_2"],"splices":[[29,0,[]]],"annotations":[{"version":"113943358_3187c446-7136-4f81-980a-9d538fddf363_1","start":25,"end":29,"growType":"grow-right","data":{"name":"bold","data":true}}]}
 {"id":"113943358_d53b0a77-6783-4670-9a80-c2f65a23f955_1","t":"PersistableVersion","parents":["113943358_3187c446-7136-4f81-980a-9d538fddf363_1"],"splices":[[34,0,["b"]]],"annotations":[]}
+{"id":"113943358_af61a09f-ebc9-4673-9c01-549d7373ac28_1","t":"PersistableVersion","parents":["113943358_d53b0a77-6783-4670-9a80-c2f65a23f955_1"],"splices":[[2,0,["a"]]],"annotations":[]}
+{"id":"113943358_af61a09f-ebc9-4673-9c01-549d7373ac28_2","t":"PersistableVersion","parents":["113943358_af61a09f-ebc9-4673-9c01-549d7373ac28_1"],"splices":[[3,0,["b"]]],"annotations":[]}
+{"id":"113943358_af61a09f-ebc9-4673-9c01-549d7373ac28_3","t":"PersistableVersion","parents":["113943358_af61a09f-ebc9-4673-9c01-549d7373ac28_2"],"splices":[[4,0,["d"]]],"annotations":[]}
