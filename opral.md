@@ -1,4 +1,4 @@
-![Opral](https://avatars.githubusercontent.com/u/91317568?s=64\\&v=4)
+![Opral](https://avatars.githubusercontent.com/u/91317568?s=64&v=4)
 
 Welcome to Opral's repository. 
 
